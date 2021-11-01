@@ -8,7 +8,7 @@ const MyBooking = () => {
   const { user } = useAuth();
 
   useEffect(() => {
-    fetch(`http://localhost:5000/booking?search=${user?.email}`)
+    fetch(`https://protected-mesa-44338.herokuapp.com/booking?search=${user?.email}`)
       .then((res) => res.json())
       .then((data) => setBookings(data));
   }, [user]);
@@ -22,7 +22,7 @@ const MyBooking = () => {
       "Are you sure, You want to Cancel This Booking!"
     );
     if (proceed) {
-      const url = `http://localhost:5000/bookings/${id}`;
+      const url = `https://protected-mesa-44338.herokuapp.com/bookings/${id}`;
       fetch(url, {
         method: "DELETE",
       })

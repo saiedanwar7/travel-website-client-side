@@ -26,7 +26,7 @@ const AddNewPackage = () => {
         
                 console.log(newPackage);
 
-                fetch('http://localhost:5000/packages', {
+                fetch('https://protected-mesa-44338.herokuapp.com/packages', {
                     method: 'POST',
                     headers: {
                         'content-type': 'application/json'

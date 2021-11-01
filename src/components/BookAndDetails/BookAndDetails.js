@@ -14,7 +14,7 @@ const BookAndDetails = () => {
     console.log(pkg);
 
     useEffect(() => {
-        fetch(`http://localhost:5000/packages/${package_id}`)
+        fetch(`https://protected-mesa-44338.herokuapp.com/packages/${package_id}`)
             .then(res => res.json())
             .then(data => setPackage(data))
     }, []);
@@ -49,7 +49,7 @@ const BookAndDetails = () => {
         }
         // console.log(newBooking);
        
-        fetch('http://localhost:5000/bookings',{
+        fetch('https://protected-mesa-44338.herokuapp.com/bookings',{
             method: 'POST',
             headers: {
                 'content-type': 'application/json'

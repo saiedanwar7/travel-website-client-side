@@ -7,7 +7,7 @@ const ManageBooking = () => {
     const [manageBooking, setManageBooking] = useState([]);
 
     useEffect(() => {
-        fetch(`http://localhost:5000/bookings`)
+        fetch(`https://protected-mesa-44338.herokuapp.com/bookings`)
             .then(res => res.json())
             .then(data => setManageBooking(data))
     }, []);
@@ -18,7 +18,7 @@ const ManageBooking = () => {
 
         const proceed = window.confirm("Are you sure, you want to cancel booking !!!")
         if (proceed) {
-            const url = `http://localhost:5000/bookings/${id}`
+            const url = `https://protected-mesa-44338.herokuapp.com/bookings/${id}`
             fetch(url, {
                 method: 'DELETE'
             })
@@ -38,7 +38,7 @@ const ManageBooking = () => {
 const approved = { status: "Approved" }
 
 const handleApprovedBooking = id => {
-    const url = `http://localhost:5000/bookings/${id}`
+    const url = `https://protected-mesa-44338.herokuapp.com/bookings/${id}`
     fetch(url, {
         method: 'PUT',
         headers: {
