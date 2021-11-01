@@ -15,8 +15,7 @@ const Home = () => {
             <Packages></Packages>
             <TravelGallery></TravelGallery>
           
-        
-
+    
         </div>
     );
 };

@@ -43,7 +43,7 @@ const About = () => {
             />
           </Col>
 
-          {/* <hr className="hr-color" /> */}
+
         </Row>
       </Container>
     </div>

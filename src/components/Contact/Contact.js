@@ -10,9 +10,9 @@ const Contact = () => {
             <Container className="my-5">
                 <h1 className="details-title text-center py-1 px-2">Contact With Travele</h1>
                 
-                <div className="row ">
+                <div className="row d-flex">
                    
-                    <div className="col-12 col-md-6 mt-3 ms-3 form-info shadow-sm rounded p-5">
+                    <div className="col-12 col-md-12 w-50 col-sm-12 mt-3 ms-3 form-info shadow-sm rounded p-5">
                         <h4>Please Contact Us Using This Form Below</h4>
                         <hr  className="mb-5"/>
                         <Form>
@@ -37,12 +37,12 @@ const Contact = () => {
                     {/* <div className="col-12 col-md-6 mt-5">
                         <p>
                             <span className="fw-bold">Contact us</span><br />
-                            HolidayEpress <br />
-                            Gulshan, Dhaka <br />
+                            Travele
                         </p>
                         <p><span className="fw-bold">Phone:</span> +23555666</p>
-                        <p><span className="fw-bold">Email :</span> holiday@express.com</p>
+                        <p><span className="fw-bold">Email :</span> trevele@express.com</p>
                     </div> */}
+
                 </div>
             </Container>
         </div>

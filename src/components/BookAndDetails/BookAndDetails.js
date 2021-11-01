@@ -17,7 +17,7 @@ const BookAndDetails = () => {
         fetch(`https://protected-mesa-44338.herokuapp.com/packages/${package_id}`)
             .then(res => res.json())
             .then(data => setPackage(data))
-    }, []);
+    }, [package_id]);
 
 // package_id
 

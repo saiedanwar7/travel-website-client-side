@@ -17,7 +17,6 @@ const Menubar = () => {
            <Navbar.Collapse id="responsive-navbar-nav">
 
           <Nav className="me-auto">
-                {/* <Nav.Link className="text-color mx-2 fw-bold" as={Link} to="/doctors">Doctors</Nav.Link> */}
 
                 <Nav.Link className="text-color  mx-2 fw-bold" as={Link} to="/home">Home</Nav.Link>
                  <Nav.Link className="text-color  mx-2 fw-bold" as={Link} to="/About">About us</Nav.Link>

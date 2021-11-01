@@ -20,7 +20,7 @@ const Footer = () => {
                    <h4 className="mb-2 fw-bold title-color">CONTACT INFO</h4>
                       <div>
                       <p> 3146 Koontz, California</p>
-                      <p>Mail - company@domain.com</p>
+                      <p>Mail - Trvele@gmail.com</p>
                        <h5>Call - +1 (977) 2599 12</h5>
                       </div>
                    </div>
