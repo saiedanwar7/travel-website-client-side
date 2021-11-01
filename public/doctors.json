@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "name": "Dr. Omar Ali",
+        "degree": "MBBS, FCPS, FICS, FACS",
+        "description": "Dr. Angelo Cardarelli is an Italian Oral Surgeon.He graduated from l’Aquila University and he specialized in Oral Surgery in Rome “Sapienza” University. He focuses on surgical treatment of impacted teeth using piezoelectric device and atrophic jaws rehabilitation using a reduced numbers of implants.He do many courses and lectures around the world about those topics. He work in his Clinic “Clinica Cardarelli” in the South of Italy with his brother and father, and also in Milan at San Raffaele Hospital as Scientific Advisor and he is Adjunct Professor at ”Vita Salute University” in Milan.",
+        "img": "https://www.doctorschoiceawards.org/wp-content/uploads/2019/11/300CF0B2-2F21-4D52-9F72-FCDE0689F077-357x500.jpeg",
+        "from" : "USA",
+        "Specialities": "Cosmetic Dentistry"
+    },
+    {
+        "id": 2,
+        "name": "Dr. Md. Nazmul Hoque Masum",
+        "degree": "MBBS, FCPS, FICS, FACS",
+        "Summary": "MBBS (DMC), FCPS (Surgery), FICS (USA), FACS (America), Member, American Society of Colon & Rectal Surgeons (FISUCRS), Associate Professor Dept. of Surgery, DMC",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/1199-20200817224743.jpeg",
+        "Specialities": "Colorectal Surgery"
+    },
+    {
+        "id": 3,
+        "name": "Dr. Ziyad Hammoudeh, MD",
+        "degree": "MBBS, FCPS, FICS, FACS",
+        "description": "Dr. Angelo Cardarelli is an Italian Oral Surgeon.He graduated from l’Aquila University and he specialized in Oral Surgery in Rome “Sapienza” University. He focuses on surgical treatment of impacted teeth using piezoelectric device and atrophic jaws rehabilitation using a reduced numbers of implants.He do many courses and lectures around the world about those topics. He work in his Clinic “Clinica Cardarelli” in the South of Italy with his brother and father, and also in Milan at San Raffaele Hospital as Scientific Advisor and he is Adjunct Professor at ”Vita Salute University” in Milan.",
+        "from" : "Miami, Florida, 33144, USA",
+        "img": "https://www.doctorschoiceawards.org/wp-content/uploads/2018/08/8CFAB19D-A7AA-4552-BDED-8090CC34D750-333x500.jpeg",
+        "Specialities": " Plastic Surgery"
+    },
+    {
+        "id": 4,
+        "name": " Dr. Joel Cohen, MD",
+        "degree": "MBBS, FCPS, FICS, FACS",
+        "description": "Dr. Angelo Cardarelli is an Italian Oral Surgeon.He graduated from l’Aquila University and he specialized in Oral Surgery in Rome “Sapienza” University. He focuses on surgical treatment of impacted teeth using piezoelectric device and atrophic jaws rehabilitation using a reduced numbers of implants.He do many courses and lectures around the world about those topics. He work in his Clinic “Clinica Cardarelli” in the South of Italy with his brother and father, and also in Milan at San Raffaele Hospital as Scientific Advisor and he is Adjunct Professor at ”Vita Salute University” in Milan.",
+        "from": " Greenwood Village, Colorado, 80111, USA",
+        "img": "https://www.doctorschoiceawards.org/wp-content/uploads/2015/07/cohen.jpg",
+        "Specialities": "Dermatology"
+    },
+    {
+        "id": 5,
+        "name": "Dr. Kyle Hoedebecke",
+        "degree": "MBBS, FCPS, FICS, FACS",
+        "description": "Dr. Angelo Cardarelli is an Italian Oral Surgeon.He graduated from l’Aquila University and he specialized in Oral Surgery in Rome “Sapienza” University. He focuses on surgical treatment of impacted teeth using piezoelectric device and atrophic jaws rehabilitation using a reduced numbers of implants.He do many courses and lectures around the world about those topics. He work in his Clinic “Clinica Cardarelli” in the South of Italy with his brother and father, and also in Milan at San Raffaele Hospital as Scientific Advisor and he is Adjunct Professor at ”Vita Salute University” in Milan.",
+        "from": "Dallas, Texas, 75229, USA",
+        "img": "https://www.doctorschoiceawards.org/wp-content/uploads/2020/05/Kyle2020small-500x462.jpg",
+        "Specialities": " Family & General Practitioners"
+    },
+    {
+        "id": 6,
+        "name": "Dr. Rand Spongberg",
+        "degree": "MBBS, FCPS, FICS, FACS",
+        "description": "Dr. Angelo Cardarelli is an Italian Oral Surgeon.He graduated from l’Aquila University and he specialized in Oral Surgery in Rome “Sapienza” University. He focuses on surgical treatment of impacted teeth using piezoelectric device and atrophic jaws rehabilitation using a reduced numbers of implants.He do many courses and lectures around the world about those topics. He work in his Clinic “Clinica Cardarelli” in the South of Italy with his brother and father, and also in Milan at San Raffaele Hospital as Scientific Advisor and he is Adjunct Professor at ”Vita Salute University” in Milan.",
+        "from": "Costa Mesa, California, 92627, USA",
+        "img": "https://www.doctorschoiceawards.org/wp-content/uploads/2017/12/dr-spongeberg-new.jpg",
+        "Specialities": "Veterinary"
+    }
+]

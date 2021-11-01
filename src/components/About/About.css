@@ -1,0 +1,30 @@
+.about-img{
+    width:40%;
+    height: 320px;
+}
+
+.about-title{
+  color: #fc8621;
+}
+
+.about-text{
+ color: #fc8621;
+ font-size: 20px;
+}
+
+.btn-about{
+    color: white !important;
+    border-radius: 11px;
+    background-color:#f68d30;;
+    border-color: #fc8621;
+     
+}
+
+/* .btn-about:hover{
+   background-color:#75f1f1;
+   
+} */
+
+/* .hr-color{
+  border: 2px solid rgb(6, 92, 190);
+} */

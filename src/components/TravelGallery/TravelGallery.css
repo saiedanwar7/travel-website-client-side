@@ -1,0 +1,37 @@
+.container {
+  max-width: 1170px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.gallery-section .gallery-img {
+  margin-bottom: 30px;
+}
+
+.section-title {
+  color: #fa953d;
+}
+
+/* .section-heading .dash-style {
+    padding-left: 80px;
+    position: relative; */
+/* 
+section-heading .dash-style::before{
+    background: #F56960;
+    margin: 0px 10px 0px 0px;
+} */
+
+.section-heading h2 {
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 1.1;
+  text-transform: uppercase;
+}

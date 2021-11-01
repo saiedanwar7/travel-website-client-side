@@ -1,0 +1,16 @@
+.icon-img {
+  width: 70px;
+  height: 70px;
+  margin-bottom: 2rem;
+}
+
+.go-btn {
+  border: 2px solid rgb(21, 42, 43);
+}
+.go-btn:hover {
+  background-color: #ff9100;
+}
+
+.ht-login {
+  height: 350px;
+}
