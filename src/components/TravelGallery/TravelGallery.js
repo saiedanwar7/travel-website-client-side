@@ -47,7 +47,7 @@ const TravelGallery = () => {
               </div>
             </div>
 
-            <div className="row mt-1 col-sm-6">
+            <div className="row mt-1 col-sm-12">
               <figure className="gallery-img">
                 <img src="https://i.ibb.co/g9HHSmy/T4.jpg" alt="" />
               </figure>
