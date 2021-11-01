@@ -39,7 +39,7 @@ const Packages = () => {
                       {pkg.package_name}
                     </Card.Title>
                     <Card.Text>
-                      <p>{pkg.package_summary.slice(0, 130)}...</p>
+                      <p>{pkg?.package_summary?.slice(0, 130)}...</p>
                     </Card.Text>
 
                     <div className="mt-auto ">

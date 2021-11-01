@@ -1,0 +1,44 @@
+[
+    
+    {
+        "exp_name": "Good Foods",
+        "img" : "https://preview.colorlib.com/theme/hepta/fonts/flaticon/svg/001-breakfast.svg",
+        "exp_summary" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts."
+
+    },
+
+    {
+        "exp_name": "Travel Anywhere",
+        "img" : "https://preview.colorlib.com/theme/hepta/fonts/flaticon/svg/002-planet-earth.svg",
+        "exp_summary" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. "
+
+    },
+
+    {
+        "exp_name": "Airplane",
+        "img" : "https://preview.colorlib.com/theme/hepta/fonts/flaticon/svg/003-airplane.svg",
+        "exp_summary" : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. "
+
+    },
+
+    
+    {
+        "exp_name": "Beach Resort",
+        "img" : "https://preview.colorlib.com/theme/hepta/fonts/flaticon/svg/004-beach.svg",
+        "exp_summary" : " Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.  "
+    },
+
+        
+    {
+        "exp_name": "Mountain Climbing",
+        "img" : "https://preview.colorlib.com/theme/hepta/fonts/flaticon/svg/005-mountains.svg",
+        "exp_summary" : " Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. "
+    },
+
+    {
+        "exp_name": "Hot Air Balloon",
+        "img" : "https://preview.colorlib.com/theme/hepta/fonts/flaticon/svg/006-hot-air-balloon.svg",
+        "exp_summary" : " Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.  "
+    }
+
+]
