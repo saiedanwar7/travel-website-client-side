@@ -6,7 +6,7 @@ const Experience = () => {
     const [experience, setExperience] = useState([]);
 
     useEffect(() => {
-        fetch("http://localhost:5000/experiences")
+        fetch("https://protected-mesa-44338.herokuapp.com/experiences")
             .then(res => res.json())
             .then(data => setExperience(data))
     }, []);
